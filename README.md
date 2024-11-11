@@ -6,11 +6,10 @@
 4. Additionally, thorough testing with Postman ensures the reliability and functionality of the CRUD operations.
 
 ## Features
--  Create a Virtual Environment: DjangoAssignment
--  Activate the Virtual Environment
--   Install Django
--   Create a New Django Project: Login System
--   Create a New Django Application: “Loginify”
+-  CREATE VIEWS AND URLS FOR LOGIN SYSTEM
+-  Define Models for Login System
+-  MODELS & ADMIN
+-  CRUD OPERATIONS
 
 
 ## Installation
