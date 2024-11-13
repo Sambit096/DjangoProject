@@ -13,4 +13,5 @@
 
 
 ## Installation
-1. Clone the repository: https://github.com/Sambit096/Movie-Review-App.git
+1. Clone the repository: https://github.com/Sambit096/DjangoProject.git
+2. cd DjangoProject/LoginSystem
